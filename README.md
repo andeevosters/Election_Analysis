@@ -28,10 +28,9 @@ The analysis of the election shows that:
 ### Challenge Overview 
 Once we provided the CBE could benefit from expanding 
 with the candidate results, they asked us to perform a similar analysis, this time regarding votes cast by county. Using the same dataset, the second analysis included the following:
-1. Get a complete list of counties where votes were cast.
-2. Calculate the total number of votes each county cast.
-3. Calculate the percentage of votes each county cast.
-4. Determine the county with the highest voter turnout. 
+1. The voter turnout for each county.
+2. The percentage of votes from each county out of the total count.
+3. The county with the highest voter turnout.
 
 ### Challenge Summary
 The analysis of the election (369,711 votes cast) shows that:
@@ -47,8 +46,9 @@ The analysis of the election (369,711 votes cast) shows that:
     - Denver, with 306,055 votes cast, or 82.8% of the 368,711 votes.
 
 ## Election Audit: Summary
-The Colorado Board of Elections has the critical information they need to certify Diana Degette as the winner of the election and identify Denver as the majority location for votes being cast in this election. 
+The Colorado Board of Elections has the critical information they need to certify Diana Degette as the winner of the election and identify Denver as the majority location for votes being cast in this election. See below for complete results.
 
+![Election_results.png](https://github.com/andeevosters/Election_Analysis/blob/main/Resources/Election_results.png)
 
 ### Further Analysis Potential 
 We recommend the CBE take advantage of the existing script by having us modify it to perform a deeper analysis that could help them draw elections conclusions from a macro lens (statewide results) down to a micro lens, including some of the following examples:
@@ -62,4 +62,5 @@ We recommend the CBE take advantage of the existing script by having us modify i
 
 ## Resources
 – Data Source: election_results.csv
+
 – Software: Python 3.8.5, Visual Studio Code, 1.52.1
