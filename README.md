@@ -1,5 +1,5 @@
 # Election_Analysis
-We were asked by an empoloyee of the Colorado Board of Elections to audit a recent congressional election, in two separate phases: candidate results and county results.
+We were asked by an employee of the Colorado Board of Elections to audit a recent congressional election, in two separate phases: candidate results and county results.
 
 ## Phase 1: Candidate Results
 ### Project Overview 
@@ -53,11 +53,17 @@ The Colorado Board of Elections has the critical information they need to certif
 ### Further Analysis Potential 
 We recommend the CBE take advantage of the existing script by having us modify it to perform a deeper analysis that could help them draw elections conclusions from a macro lens (statewide results) down to a micro lens, including some of the following examples:
 - Add statewide results in order to compare all of the counties
+
 – Compare counties to counties, and cities to cities (ex. Denver falls in three counties, and is not a county in itself)
+
 – Which candidates were voted for in each county
+
 – The number and percentage of votes for each candidate by county
+
 – The winning candidate for each county
+
 – The winning county for each candidate
+
 – It could be sold to a Board of Elections in other states
 
 ## Resources
